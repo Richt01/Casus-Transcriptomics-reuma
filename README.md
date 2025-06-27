@@ -13,8 +13,6 @@ featureCounts() uit de Rsubread package wordt gebruikt om een tabel te maken waa
 Met DESeq2 worden statistisch significante genen geanalyseerd die differentiaal tot expressie komen en gevisualiseerd met een volcano plot. (bekijk script).
 
 Om te bepalen welke biologische processen betrokken zijn bij een veranderde genexpressie wordt er een GO-analyse uitgevoerd met goseq() en GO.dp. (Bekijk GO-analyse script). Met deze resultaten kan er met pathview de bijbehorende pathways bekeken worden van genen met een fold change van <-2 en >2 en een P-waarde van <0.05. (bekijk script van de KEGG-analyse). In figuur 1 is het flowschema weergegeven.
-<p align =”center”>
-<img src = “/figuren/plantdrooggewicht.png” alt = “Beschrijving plaatje”
-width = “600”/>
-</p>
-
+![flowschema](./figuren/plantdrooggewicht.png) 
+<a id="Fig1">Figuur1:</a> 
+*flowschema van analyse data uit gewrichtsslijmvlies van 8 vrouwen 4 met RA en 4 controle personen. leeftijd is van 15 tot en met 66 jaar.  
