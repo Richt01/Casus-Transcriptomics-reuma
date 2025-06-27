@@ -12,10 +12,9 @@ Rsubread wordt gebruikt voor het mappen van de reads. Voor het mappen van de rea
 featureCounts() uit de Rsubread package wordt gebruikt om een tabel te maken waarin staat hoeveel reads er gemapt zijn per gen (countmatrix). Hiervoor is het genomic.gtf bestand van de NCBI website gedownload (GCF_000001405.40) (Homo Sapiens Genome Assembly GRCh38.P14 - NCBI - NLM, n.d.). (bekijk script).
 Met DESeq2 worden statistisch significante genen geanalyseerd die differentiaal tot expressie komen en gevisualiseerd met een volcano plot. (bekijk script).
 
-Om te bepalen welke biologische processen betrokken zijn bij een veranderde genexpressie wordt er een GO-analyse uitgevoerd met goseq() en GO.dp. (Bekijk GO-analyse script). Met deze resultaten kan er met pathview de bijbehorende pathways bekeken worden van genen met een fold change van <-2 en >2 en een P-waarde van <0.05. (bekijk script van de KEGG-analyse)
-
+Om te bepalen welke biologische processen betrokken zijn bij een veranderde genexpressie wordt er een GO-analyse uitgevoerd met goseq() en GO.dp. (Bekijk GO-analyse script). Met deze resultaten kan er met pathview de bijbehorende pathways bekeken worden van genen met een fold change van <-2 en >2 en een P-waarde van <0.05. (bekijk script van de KEGG-analyse). In figuur 1 is het flowschema weergegeven.
 <p align =”center”>
-<img src = “assets/plaatje.png” alt = “Beschrijving plaatje”
+<img src = “/figuren/plantdrooggewicht.png” alt = “Beschrijving plaatje”
 width = “600”/>
 </p>
 
