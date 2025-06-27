@@ -14,3 +14,8 @@ Met DESeq2 worden statistisch significante genen geanalyseerd die differentiaal 
 
 Om te bepalen welke biologische processen betrokken zijn bij een veranderde genexpressie wordt er een GO-analyse uitgevoerd met goseq() en GO.dp. (Bekijk GO-analyse script). Met deze resultaten kan er met pathview de bijbehorende pathways bekeken worden van genen met een fold change van <-2 en >2 en een P-waarde van <0.05. (bekijk script van de KEGG-analyse)
 
+<p align =”center”>
+<img src = “assets/plaatje.png” alt = “Beschrijving plaatje”
+width = “600”/>
+</p>
+
