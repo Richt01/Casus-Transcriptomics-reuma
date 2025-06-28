@@ -23,7 +23,7 @@ pathview(
 
 pathview(
   gene.data = resultaten2,
-  pathway.id = "hsa04662",  # KEGG ID voor reuma
+  pathway.id = "hsa04662",  # KEGG ID voor B-cell aanmaak
   species = "hsa",          # humaan
   gene.idtype = "SYMBOL",   # er wordt gebruik gemaakt van genesymbols
   limit = list(gene = 5)    # Kleurbereik voor log2FC van -5 tot +5
