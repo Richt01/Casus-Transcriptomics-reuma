@@ -39,7 +39,7 @@ In figuur 4 is er naar de algemene RA KEGG-pathway gekeken waar P < 0,05 is en d
 In figuur 5 is de synthese van B-cellen weergeven met een KEGG-pathway waar P < 0,05 is en de is fold change van < -5 en > 5. Hier wordt er gezien dat de B-celreceptorroute eerst geactiveerd wordt, maar in de downstream is een remming weergeven. 
 ![KEGG B-cel](./figuren/hsa04662.pathview.png) 
 <a id="Fig1">Figuur5:</a>
-
+*Figuur 5: pathway analyse van B-cell synthese (P < 0,05 is en de is fold change van < -5 en > 5).
 
 # Conclusie
 Om te bepalen wat de verschillen in genexpressie is tussen personen met RA en gezonde personen is er van 8 vrouwen gewrichtsslijmvlies onderzocht (4 met RA en 4 als controle personen).
