@@ -1,4 +1,5 @@
 # Pathview analyse van patiënten met Reumatoïde Artritis (RA) laat significante verhoging van genexpressie zien van genen die betrokken zijn in immuunactivatie ten opzichte van gezonde personen
+<sub> Geschreven door Richtje Stienstra, opleiding: biotechnologie, jaar:2 , periode:4, studentennummer: 5425751
 # Inleiding
 Reumatoïde Artritis (RA) is een chronische auto-immuunziekte geassocieerd met een onstekingsproces dat zowel de gewrichten als organen kan aantasten. De ontsteking komt het meest voor in de kleine gewrichten van handen en voeten, de gewrichten zijn dan vaak stijf, gezwollen en vaak doen ze pijn. RA kan niet worden genezen en de ziekte is progressief (Grassi et al., 1998). 
 De oorzaak van RA is nog niet helemaal bekend en er is niet veel onderzoek over gedaan, dit komt doordat er gedacht wordt dat RA verschillende oorzaken heeft zoals door: omgeving, genetische en hormonale factoren (Tobón et al., 2010).
