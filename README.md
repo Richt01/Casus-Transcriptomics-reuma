@@ -44,7 +44,7 @@ In figuur 5 is de synthese van B-cellen weergeven met een KEGG-pathway waar P < 
 *Figuur 5: pathway analyse van B-cell synthese (P < 0,05 is en de is fold change van < -5 en > 5).
 
 # Conclusie
-Om te bepalen wat de verschillen in genexpressie is tussen personen met RA en gezonde personen is er van 8 vrouwen gewrichtsslijmvlies onderzocht (4 met RA en 4 als controle personen).
+Om te bepalen wat de verschillen in genexpressie is tussen personen met Reumatoïde Artritis (RA) en gezonde personen is er van 8 vrouwen gewrichtsslijmvlies onderzocht (4 met RA en 4 als controle personen).
 Uit de resultaten is gebleken dat er veel genen die betrokken zijn bij de activatie van het immuunsysteem een verhoogde expressie vertonen bij RA patiënten dan bij gezonde personen. Met een verhoogde activatie van T-cellen en B-cellen, wat kan duiden op een bijdrage aan de chronische ontstekingsreactie van RA. Dit is ook in de literatuur gevonden (Yoon et al., 2014).
 
 # Bronnen
