@@ -74,7 +74,7 @@ Tobón, G. J., Youinou, P., & Saraux, A. (2010). The environment, geo-epidemiolo
 
 Yoon, B. R., Yoo, S. J., Choi, Y. H., Chung, Y. H., Kim, J., Yoo, I. S., Kang, S. W., & Lee, W. W. (2014). Functional Phenotype of Synovial Monocytes Modulating Inflammatory T-Cell Responses in Rheumatoid Arthritis (RA). PLOS ONE, 9(10), e109775. https://doi.org/10.1371/JOURNAL.PONE.0109775
 
-# data steward
+
 
 
 
