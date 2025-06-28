@@ -42,7 +42,24 @@ In figuur 5 is de synthese van B-cellen weergeven met een KEGG-pathway waar P < 
 
 
 # Conclusie
+Om te bepalen wat de verschillen in genexpressie is tussen personen met RA en gezonde personen is er van 8 vrouwen gewrichtsslijmvlies onderzocht (4 met RA en 4 als controle personen).
+Uit de resultaten is gebleken dat er veel genen die betrokken zijn bij de activatie van het immuunsysteem een verhoogde expressie vertonen bij RA patiënten dan bij gezonde personen. Met een verhoogde activatie van T-cellen en B-cellen, wat kan duiden op een bijdrage aan de chronische ontstekingsreactie van RA. Dit is ook in de literatuur gevonden (Yoon et al., 2014).
 
+# Bronnen
+A Grammar of Data Manipulation • dplyr. (n.d.). Retrieved May 29, 2025, from https://dplyr.tidyverse.org/
+Bioconductor - Install. (n.d.). Retrieved June 22, 2025, from https://bioconductor.org/install/
+Bioconductor - KEGGREST. (n.d.). Retrieved June 22, 2025, from https://bioconductor.org/packages/release/bioc/html/KEGGREST.html
+Bioconductor - Rsamtools. (n.d.). Retrieved June 22, 2025, from https://www.bioconductor.org/packages/release/bioc/html/Rsamtools.html
+Grassi, W., De Angelis, R., Lamanna, G., & Cervini, C. (1998). The clinical features of rheumatoid arthritis. European Journal of Radiology, 27(SUPPL. 1), S18–S24. https://doi.org/10.1016/S0720-048X(98)00038-2
+Homo sapiens genome assembly GRCh38.p14 - NCBI - NLM. (n.d.). Retrieved June 22, 2025, from https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/
+Liao, Y., Smyth, G. K., & Shi, W. (2019). The R package Rsubread is easier, faster, cheaper and better for alignment and quantification of RNA sequencing reads. Nucleic Acids Research, 47(8). https://doi.org/10.1093/NAR/GKZ114
+Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biology, 15(12). https://doi.org/10.1186/S13059-014-0550-8
+Luo, W., & Brouwer, C. (2013). Pathview: An R/Bioconductor package for pathway-based data integration and visualization. Bioinformatics, 29(14), 1830–1831. https://doi.org/10.1093/BIOINFORMATICS/BTT285
+Majithia, V., & Geraci, S. A. (2007). Rheumatoid Arthritis: Diagnosis and Management. American Journal of Medicine, 120(11), 936–939. https://doi.org/10.1016/j.amjmed.2007.04.005
+Malemud, C. J. (2018). The role of the JAK/STAT signal pathway in rheumatoid arthritis. Therapeutic Advances in Musculoskeletal Disease, 10(5–6), 117–127. https://doi.org/10.1177/1759720X18776224/ASSET/1FA3CD84-4CA3-4B06-8151-60F863A364C4/ASSETS/IMAGES/LARGE/10.1177_1759720X18776224-FIG2.JPG
+readr package - RDocumentation. (n.d.). Retrieved June 22, 2025, from https://www.rdocumentation.org/packages/readr/versions/2.1.5
+Tobón, G. J., Youinou, P., & Saraux, A. (2010). The environment, geo-epidemiology, and autoimmune disease: Rheumatoid arthritis. Journal of Autoimmunity, 35(1), 10–14. https://doi.org/10.1016/j.jaut.2009.12.009
+Yoon, B. R., Yoo, S. J., Choi, Y. H., Chung, Y. H., Kim, J., Yoo, I. S., Kang, S. W., & Lee, W. W. (2014). Functional Phenotype of Synovial Monocytes Modulating Inflammatory T-Cell Responses in Rheumatoid Arthritis (RA). PLOS ONE, 9(10), e109775. https://doi.org/10.1371/JOURNAL.PONE.0109775
 
 
 
