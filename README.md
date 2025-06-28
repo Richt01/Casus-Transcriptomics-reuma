@@ -17,12 +17,13 @@ Om te bepalen welke biologische processen betrokken zijn bij een veranderde gene
 <a id="Fig1">Figuur1:</a> 
 *flowschema van analyse data uit gewrichtsslijmvlies van 8 vrouwen 4 met RA en 4 controle personen. leeftijd is van 15 tot en met 66 jaar.  
 
-#Resultaten 
+# Resultaten 
 Om verschil in expressie van genen te bepalen bij mensen met RA en personen zonder is er van 8 vrouwen gewrichtsslijmvlies onderzocht (4 met RA en 4 als controle personen). Deze data was gemapt en gecount in R en gevisualiseerd met een volcano plot. De statistisch significante genen (P < 0.05) met een fold change van < -2 en > 2 werden berekent met een GO-analyse waarmee een KEGG-analyse werd uitgevoerd met de relevante pathways.
 
 In figuur 2 is de volcano plot weergegeven waar er 4572 statistisch significante genen zijn gevonden die meer/minder tot expressie komen bij RA patiënten ten opzichte van gezonde personen (p < 0.05 en een fold change van < -1 en > 1). Het gen met de laagste p waarde en hoogste fold change is het gen ANKRD30bl, de genen die erna volgen zijn: MT-ND6, SLC9A3R2 en ZNF598. Deze genen worden statistisch significant minder afgeschreven bij mensen met reuma ten opzichte van gezonde personen.
 ![volcano plot](./figuren/volcano.png) 
 <a id="Fig1">Figuur2:</a>
+
 *Figuur 2: volcano plot van alle genen met een p waarde van < 0.05 en een fold change van < -1 en > 1. Waar de niet statistisch significante genen grijs, log2FC groen en de -log2p-value in het rood zijn weergegeven.
 
 In figuur 3 zijn de top 10 Enriched GO-termen weergeven (P < 0,05 en een fold change van < -2 en > 2). Uit de GO-analyse is gebleken dat uit de top 10 Enriched GO-termen de meeste biologische processen te maken hebben met het immuunsysteem. Met de nadruk op B-cellen, lymfocyten en antilichamen.
@@ -40,7 +41,7 @@ In figuur 5 is de synthese van B-cellen weergeven met een KEGG-pathway waar P < 
 <a id="Fig1">Figuur5:</a>
 
 
-#Conclusie
+# Conclusie
 
 
 
