@@ -16,6 +16,7 @@ Met DESeq2 worden statistisch significante genen geanalyseerd die differentiaal 
 Om te bepalen welke biologische processen betrokken zijn bij een veranderde genexpressie wordt er een GO-analyse uitgevoerd met goseq() en GO.dp. [Bekijk GO-analyse script](https://github.com/Richt01/Casus-Transcriptomics-reuma/blob/main/R_scripts/GO_J2P4.R). Met deze resultaten kan er met pathview de bijbehorende pathways bekeken worden van genen met een fold change van <-5 en >5 en een P-waarde van <0.05. [bekijk script van de KEGG-analyse](https://github.com/Richt01/Casus-Transcriptomics-reuma/blob/main/R_scripts/KEGG.R). In figuur 1 is het flowschema weergegeven.
 ![flowschema](./figuren/flowchart.png) 
 <a id="Fig1">Figuur1:</a> 
+
 *flowschema van analyse data uit gewrichtsslijmvlies van 8 vrouwen 4 met RA en 4 controle personen. Leeftijd is van 15 tot en met 66 jaar. Eerst worden de reads gemapt, waarna de reads getelt kunnen worden. Van deze tellingen worden de statistisch significante genen berekent (p < 0.05 en een fold change van < -1 en > 1). En met deze resultaten wordt er m.b.v een GO-analyse de top 10 statistisch significantie biologische processen weergeven (P < 0,05 en een fold change van < -2 en > 2). Met als laatste stap worden de relevante KEGG-pathways van RA bekeken (P < 0,05 en een fold change van < -5 en > 5).
 
 # Resultaten 
